@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.kranti.application.base",
+    "sha256_cert_fingerprints":
+    ["E8:4E:27:51:8B:26:AD:00:3B:34:38:7D:DE:2C:90:13:F5:35:55:7F:C1:2F:47:4A:14:C0:79:86:9F:0E:F0:11"]
+  }
+}]
